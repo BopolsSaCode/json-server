@@ -1,0 +1,12 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "firstName": "Christian Jason",
+            "middleName": "Del Monte",
+            "lastName": "Beloso",
+            "suffix": "",
+            "studentNumber": "2020276741"
+        }
+    ]
+}
